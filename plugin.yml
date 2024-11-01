@@ -1,0 +1,7 @@
+name: NexusLobbyCore
+main: core\Nexus
+load: POSTWORLD
+version: 1.0
+api: 4.0.0
+author: David
+description: Core for Nexus Lobby
